@@ -65,9 +65,11 @@ The notebook includes a visualization of how the probability of buying insurance
    cd <your_repo_name>
 
 2. Install dependencies:
+    ```bash
    pip install pandas matplotlib scikit-learn
 
-3. Open the Jupyter Notebook:
+4. Open the Jupyter Notebook:
+    ```bash
    jupyter notebook logistic_regression.ipynb
 
-4. Run all cells to reproduce results.
+6. Run all cells to reproduce results.
